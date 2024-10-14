@@ -1,6 +1,6 @@
-# Starter-Code 
+# Sensorium 
 
-This repo contains starter code to implement projects without implementing everything from scratch
+Contains code to interface with different sensors and format data efficiently and perform various tasks involving computer vision and rendering for edge computing.
 
 ## Project Structure 
 
@@ -21,7 +21,7 @@ This repo contains starter code to implement projects without implementing every
 
 - Build systems 
     1. ninja v1.8 or newer.
-    2. CMake v3.18 or newer.
+    2. CMake v3.22 or newer.
 
 - Package manager 
     1. Python 3.7 or newer.
